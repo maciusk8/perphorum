@@ -1,10 +1,12 @@
 # Perphorum - Dokumentacja Systemu
 
+🇬🇧 **[English version available here](README_EN.md)**
+
 Projekt implementujący portal społecznościowy dla pasjonatów perfum, inspirowany serwisami takimi jak **Filmweb** oraz **Fragrantica**. Aplikacja umożliwia przeglądanie bazy zapachów, ich recenzowanie, tworzenie własnych kolekcji oraz interakcję z innymi użytkownikami.
 
 ---
 
-## 👥 Autorzy
+## Autorzy
 *   **Maciej Mikołajek** - [GitHub](https://github.com/maciusk8)
 *   **Mateusz Wróbel** - [GitHub](https://github.com/mateuszwroobel)
 
